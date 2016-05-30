@@ -1,0 +1,3 @@
+
+worker: node config.js
+
